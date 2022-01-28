@@ -1,0 +1,28 @@
+.Top-Bar{
+  width: 34cm;
+  height: 17cm;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background-color: #ffb700;
+  opacity: ;
+
+}
+.Serch{
+  height:1cm;
+  position: absolute;
+  top: 10cm;
+  width:20cm;
+  left: 6cm;
+  border-radius: 10px;
+}
+.Main{
+  text-align: center;
+  font-size: 113px;
+  top:3cm;
+  left:10cm;
+  position: absolute;
+}
+.RickRolled{
+  cursor: pointer;
+}
